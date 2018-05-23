@@ -8,7 +8,7 @@
     "start": "node bin/www",
     "watch": "webpack --progress --colors --display-error-details --watch",
     "build": "webpack --progress --colors --display-error-details --config webpack/webpack.config.js",
-    "dev": "webpack-dev-server --content-base test/build/ --config webpack/webpack.config.js  --watch"
+    "dev": "webpack-dev-server --config webpack/webpack.config.js  --watch"
   },
   "author": "",
   "license": "ISC",

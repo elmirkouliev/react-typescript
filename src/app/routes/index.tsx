@@ -24,7 +24,7 @@ class Index extends React.PureComponent<Props> {
         return (
             <Route exact path={this.props.match.url} component={() => {
                 return (
-                    <div>Hello</div>
+                    <div>asdsads</div>
                 )
             }} />
         );
