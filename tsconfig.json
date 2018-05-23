@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [
+      "es2015",
+      "dom",
+    ],
+    "jsx": "react",
+    "noEmit": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true,
+    "baseUrl": "./src",
+  }
+}
